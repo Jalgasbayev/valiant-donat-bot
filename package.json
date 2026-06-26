@@ -12,5 +12,19 @@
   },
   "dependencies": {
     "node-telegram-bot-api": "0.66.0"
-  }
+  },
+  "description": "",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalgasbayev/valiant-donat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jalgasbayev/valiant-donat-bot/issues"
+  },
+  "homepage": "https://github.com/Jalgasbayev/valiant-donat-bot#readme"
 }
