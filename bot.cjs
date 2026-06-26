@@ -148,12 +148,12 @@ const subscribeMenu = {
 
 const packages = {
 
-    "💎105 Almaz":"13 000 so'm",
-    "💎341 Almaz":"36 999 so'm",
-    "💎572 Almaz":"59 999 so'm",
-    "💳 Kunlik":"8 999 so'm",
-    "💳 Haftalik":"24 999 so'm",
-    "💳 Oylik":"85 999 so'm"
+    "💎105 Almaz":"11 499 so'm",
+    "💎341 Almaz":"34 499 so'm",
+    "💎572 Almaz":"55 499 so'm",
+    "💳 Kunlik":"7 999 so'm",
+    "💳 Haftalik":"22 499 so'm",
+    "💳 Oylik":"90 499 so'm"
 
 };
 
